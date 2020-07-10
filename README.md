@@ -1,5 +1,5 @@
 # Piano Keyboard:
-A mini piano keyboard created with hmtl, css and vanilla javascript.
+A mini piano keyboard created with html, css and vanilla javascript.
 
 ## Motivation:
 Project created with the goal of a better understanding of the DOM Manipulation and how to apply it.
